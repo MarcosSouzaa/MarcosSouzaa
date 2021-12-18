@@ -4,7 +4,7 @@
 - 👨‍🎓 Graduado em Fotografia
 - 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando Html, Css3 e Javascript- 
-- 📧 Contate-me no email: m.storeproducoes@gmail.com
+- 📧 Contate-me no email: marcossouza.git@gmail.com
 - 📱 Ligue-me nem, que seja para jogar conversa fora:(21) 99776-2455
 
 <div align="center">
