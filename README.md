@@ -27,3 +27,7 @@
  [Snake animation](https://github.com/MarcosSouza/MarcosSouza/blob/output/github-contribution-grid-snake.svg)
   
   </div>
+<div>
+  ![avatar Marcos](https://user-images.githubusercontent.com/95326659/146653057-d39d8e25-26db-427e-b279-5179a0fa8fcc.png)
+ 
+</div>
