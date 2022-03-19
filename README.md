@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Marcos Souzaa 👋
 
-- 🔭 Hoje trabalho na área técnica, estou em transição de carreira para TI
+- 🔭 Que legal!!Consegui o início da transição de carreira!
 - 👨‍🎓 Graduado em Fotografia
 - 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Html, Css3 e Javascript- 
+- 🌱 Estudando AWS, Html, Css3 e Javascript- 
 - 📧 Contate-me no email: m.storeproducoes@gmail.com
 - 📱 Ligue-me! nem que seja para jogar conversa fora: (21) 99776-2455
 
