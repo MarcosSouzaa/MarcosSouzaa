@@ -24,7 +24,7 @@
    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSouzaa&layout=pie)](https://github.com/marcossouzaa/github-readme-stats)
+[![Top Langs](https://marcos-souzaa-iusb.vercel.app//?username=MarcosSouzaa&layout=pie)](https://github.com/marcossouzaa/github-readme-stats)
 
 <br/>
  
