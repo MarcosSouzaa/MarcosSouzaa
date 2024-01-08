@@ -28,7 +28,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
  Apaixonado por Tecnologia e em busca de uma oportunidade de Transição de Carreira
 
  Entre em contato comigo:
