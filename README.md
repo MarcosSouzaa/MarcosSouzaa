@@ -27,7 +27,7 @@
 </div><br/>
  
 https://github-readme-stats.vercel.app/api?username=MarcosSouzaa&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
-
+https://github-readme-stats.vercel.app/api/pin/?username=MarcosSouzaa&show&repo=github-readme-stats&cache_seconds=86400&theme=default
 <br/>
  
  Apaixonado por Tecnologia e em busca de uma oportunidade de Transição de Carreira
