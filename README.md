@@ -30,7 +30,7 @@
 
  Apaixonado por Tecnologia e em busca de uma oportunidade de Transição de Carreira
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/MarcosSouzaa/github-readme-stats)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosSouzaa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
  Entre em contato comigo:
  - 📞 (21) 99776-2455
