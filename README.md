@@ -26,7 +26,6 @@
    
 </div><br/>
 
-
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/MarcosSouzaa/github-readme-stats)
 
  Apaixonado por Tecnologia e em busca de uma oportunidade de Transição de Carreira
