@@ -24,13 +24,10 @@
    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
    <img align="center" alt="python" src="https://img.shields.io/badge/PYTHON-306998?style=for-the-badge&logo=Python&logoColor=FFD43B"/>
    
-</div><br/>
+</div><br/> 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/MarcosSouzaa/github-readme-stats)
-
- Apaixonado por Tecnologia e em busca de uma oportunidade de Transição de Carreira
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosSouzaa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosSouzaa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+ Apaixonado por Tecnologia e em busca de uma oportunidade de Transição de Carreira 
 
  Entre em contato comigo:
  - 📞 (21) 99776-2455
