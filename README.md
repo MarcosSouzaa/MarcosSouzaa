@@ -25,8 +25,9 @@
    <img align="center" alt="python" src="https://img.shields.io/badge/PYTHON-306998?style=for-the-badge&logo=Python&logoColor=FFD43B"/>
    
 </div><br/>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
  Apaixonado por Tecnologia e em busca de uma oportunidade de Transição de Carreira
 
  Entre em contato comigo:
