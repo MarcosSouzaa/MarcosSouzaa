@@ -25,8 +25,6 @@
    <img align="center" alt="python" src="https://img.shields.io/badge/PYTHON-306998?style=for-the-badge&logo=Python&logoColor=FFD43B"/>
    
 </div><br/>
-
-
  
 https://github-readme-stats.vercel.app/api?username=MarcosSouzaa&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
 
