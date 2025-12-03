@@ -31,7 +31,7 @@
  Apaixonado por Tecnologia e em busca de uma oportunidade de Transição de Carreira 
 
  Entre em contato comigo:
- - 📞 (21) 99776-2455
+ - 📞 (21) 98732-3010
  - 📨 m.storeproducoes@gmail.com
 
 
